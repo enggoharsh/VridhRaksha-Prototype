@@ -21,7 +21,7 @@ Due to GitHub file size limitations, the full dataset used for training and eval
 📎 You can download the dataset from the following Google Drive link:  
 🔗 [Dataset Folder (Google Drive)](https://drive.google.com/drive/folders/1LyT5tKSvJidWwDO4OxMdpWJSJclwOowG?usp=sharing)
 
-> Please make sure to place the dataset in the same structure as expected by the notebook, or update the path accordingly.
+> Drive has all the spectrograms dataset in form of various human activities like falling, walking etc.
 
 ---
 
